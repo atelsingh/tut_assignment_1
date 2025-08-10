@@ -16,6 +16,6 @@ This Python program prompts the user to enter their first and last names. It the
 ## 🚀 How to Run (Using PyCharm)
 
 1. Open the project in PyCharm.
-2. Locate `task1.py` or `task2.py` in the Project Explorer.
-3. Right-click the file and select Run 'task1' or Run 'task2'.
+2. Locate `Task_1.py` or `Task_2.py` in the Project Explorer.
+3. Right-click the file and select Run 'Task_1' or Run 'Task_2'.
 4. View the output in the Run console at the bottom.
