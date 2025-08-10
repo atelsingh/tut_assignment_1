@@ -12,7 +12,7 @@ This Python program takes two numerical inputs from the user and performs basic 
 ## Task 2
 This Python program prompts the user to enter their first and last names. It then combines the inputs and displays a personalized welcome message. It's a simple demonstration of string input, concatenation, and output formatting in Python.
 
-
+![Task_2](https://github.com/atelsingh/tut_assignment_1/blob/main/Task_2.png)
 
 ## 🚀 How to Run (Using PyCharm)
 
