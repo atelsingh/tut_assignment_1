@@ -6,6 +6,7 @@ This repository contains two Python scripts:
 ## Task 1
 This Python program takes two numerical inputs from the user and performs basic arithmetic operations: addition, subtraction, multiplication, and division. It then displays the result of each operation, helping users understand how Python handles simple math functions interactively.
 
+![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
 
 
 ## Task 2
